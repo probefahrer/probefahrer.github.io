@@ -1,11 +1,14 @@
 ---
-title : Hallo in meinem digitalen Garten
+title : Welcome to the garden
 notetype : feed
 date : 01-01-2022
 ---
 Das hier ist mein erster - hoffentlich funktionierender [[digitaler Garten]].
 
 Mein selbstgeschriebenes [[Handbuch zum Jekyll Garten]]
+
+## Inhaltsverzeichnis
+[[001 Neurodiversity]]
 
 This is a sample atomic note. The file location is `_notes/Public`, and it appears on the note feed. `_notes` is the Obsidian Vault directory. _Check  <a href="../posts/how-to"> how to </a> to know more._ 
 

@@ -1,5 +1,5 @@
 ---
-title : Handbuch Jekyll Garten
+title : Handbuch zum Jekyll Garten
 notetype : feed
 date : 01-01-2022
 ---
@@ -7,6 +7,8 @@ date : 01-01-2022
 ## wenn Wikilinks nicht funktionieren
 
 Frontmatter fehlt
+
+Filename und Titel im Frontmatter **müssen** gleich sein
 
 ## Menus und Startseite ändern
 im Github Pages:

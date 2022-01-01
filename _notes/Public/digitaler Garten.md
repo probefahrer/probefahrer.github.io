@@ -1,5 +1,5 @@
 ---
-title : Digitaler Garten
+title : digitaler Garten
 notetype : feed
 date : 01-01-2022
 ---
