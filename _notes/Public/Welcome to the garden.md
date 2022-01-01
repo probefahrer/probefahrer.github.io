@@ -5,6 +5,8 @@ date : 01-01-2022
 ---
 Das hier ist mein erster - hoffentlich funktionierender [[digitaler Garten]].
 
+Mein selbstgeschriebenes [[Handbuch zum Jekyll Garten]]
+
 This is a sample atomic note. The file location is `_notes/Public`, and it appears on the note feed. `_notes` is the Obsidian Vault directory. _Check  <a href="../posts/how-to"> how to </a> to know more._ 
 
 While all files inside this folder get rendered and can be linked, only those notes with `notetype: feed` will be listed in the feed. For example, click on this [[Hidden Note]]!
