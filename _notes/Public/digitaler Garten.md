@@ -1,0 +1,1 @@
+Hier lege ich allerlei Gedanken, nützliche Notizen und [[Zeugs]] an
